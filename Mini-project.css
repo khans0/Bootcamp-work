@@ -1,0 +1,27 @@
+.header{
+    display: block;
+    background-color:blue ;
+    padding: 60px;
+    position: fixed;
+    bottom: 670px;
+    right: 0px;
+    width:4000px
+}
+.footer{
+    display:block;
+    background-color: blue;
+    padding: 60px;
+    position:fixed;
+    left: 0px;
+    top:670px;
+    width:2000px
+}
+.form{
+    position: absolute;
+    place-items: center;
+    display: inline;
+    color: orange;
+    padding: 40px;
+    top: 300px;
+    left: 350px;
+}
