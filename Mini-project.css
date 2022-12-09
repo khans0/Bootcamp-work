@@ -1,15 +1,15 @@
 .header{
     display: block;
-    background-color:blue ;
+    background-color:lightseagreen ;
     padding: 60px;
     position: fixed;
     bottom: 670px;
     right: 0px;
-    width:4000px
+    width:2000px
 }
 .footer{
     display:block;
-    background-color: blue;
+    background-color: lightseagreen;
     padding: 60px;
     position:fixed;
     left: 0px;
@@ -42,6 +42,12 @@
     padding: 60px;
     background-color: violet;
     display: inline;
-    height: 200px;
+    height: 150px;
     width: 300px;
+}
+.submit{
+    position:absolute;
+    padding:5px;
+    background-color: violet;
+    display:
 }
